@@ -5168,6 +5168,7 @@ Copyright (c) 2014 Daniel Eden
     width: 100%;
     margin-top: 10px; }
     .date-container .date h2 {
+      font-size: 40px;
       display: table-cell;
       vertical-align: middle; }
   .date-container h4 {
@@ -5271,6 +5272,7 @@ Copyright (c) 2014 Daniel Eden
   transition: background-color 0.25s linear; }
   .synopsis-container h2 {
     line-height: 1.1em;
+    font-size: 40px;
     margin-bottom: 0;
     padding: 0 20px; }
   .synopsis-container h2, .synopsis-container h4 {
@@ -5297,6 +5299,7 @@ Copyright (c) 2014 Daniel Eden
   -webkit-transition: background-color 0.25s linear;
   transition: background-color 0.25s linear; }
   .author-container h2 {
+    font-size: 40px;
     line-height: 1.1em;
     margin-top: 15px;
     margin-bottom: 0;
